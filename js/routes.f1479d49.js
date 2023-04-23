@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["routes"],{"3b7c":function(t,n,c){},"503f":function(t,n,c){"use strict";c.r(n);var i=c("7496"),o=c("f6c4"),s=function(){var t=this,n=t._self._c;return n(i["a"],{attrs:{id:"login-home",dark:""}},[n(o["a"],{staticClass:"background-main"},[n("transition",{attrs:{mode:"out-in"}},[n("router-view")],1)],1)],1)},a=[],r={},u=r,e=(c("76c3"),c("2877")),l=Object(e["a"])(u,s,a,!1,null,null,null);n["default"]=l.exports},"76c3":function(t,n,c){"use strict";c("3b7c")}}]);
+//# sourceMappingURL=routes.f1479d49.js.map
